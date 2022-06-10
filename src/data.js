@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"Sunny in Saint Petersburg",
-            artist: "Saib",
-            cover: "https://chillhop.com/wp-content/uploads/2021/03/75adfe0661d06a9ea66d9c2e99b31e92ae450ebe-1024x1024.jpg",
+            name:"Baby Mozart8",
+            artist: "2 Hours Baby Songs To Go To Sleep",
+            cover: "https://us.123rf.com/450wm/margogl/margogl1403/margogl140300063/26353617-baby-sleeping-on-the-cloud-vector-illustration.jpg?ver=6",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=16076",
+            audio: "https://archive.org/download/y-2mate.com-baby-songs-to-sleep-bedtime-songs-for-toddlers-music-for-children-lullabies-by-kids-tv/y2mate.com%20-%20%20Baby%20Mozart%20%202%20Hours%20%20Baby%20Songs%20To%20Go%20To%20Sleep.mp3",
             active: true,
         },
         {
